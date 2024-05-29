@@ -84,7 +84,7 @@ header .overlay {
 /* change the color of active or hovered links */
 .navbar-custom .nav-link.active,
 .navbar-custom .nav-link:hover {
-    color: #d67b8e !important;
+    color: #474fc7 !important;
 }
 
 nav {
@@ -141,7 +141,7 @@ nav {
 }
 
 .down-arrow:hover svg path {
-    fill: #d67b8e;
+    fill: #6a87e8;
     -webkit-transition: fill 800ms;
     transition: fill 800ms;
 }
@@ -182,11 +182,11 @@ nav {
 }*/
 
 .bg-pink {
-    background-color: #d67b8e;
+    background-color: #6a87e8;
 }
 
 .badge-info {
-    background-color: #d67b8e !important;
+    background-color: #6a87e8 !important;
 }
 
 @media (min-width: 768px) {
